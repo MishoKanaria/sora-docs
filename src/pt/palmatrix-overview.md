@@ -3,7 +3,7 @@ title: Visão Geral do Palmatrix | Documentação SORA
 head:
   - - meta
     - name: description
-      content: Descubra a abordagem inovadora do Palmatrix com os SORA Builders, conectando o Polkaswap ao CEX. Conheça as propostas da equipe e a tecnologia descentralizada do Coconut Institute.
+      content: "Descubra a abordagem inovadora do Palmatrix com os SORA Builders, conectando o Polkaswap ao CEX. Conheça as propostas da equipe e a tecnologia descentralizada do Coconut Institute."
   - - meta
     - name: keywords
       content: Construtores da SORA, SORA, exchange centralizada, Polkaswap

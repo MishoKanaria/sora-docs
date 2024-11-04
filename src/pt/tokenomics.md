@@ -15,7 +15,7 @@ head:
       content: SORA network
   - - meta
     - property: og:title
-      content: "SORA Tokenomics - Sistema Econômico Descentralizado | Rede SORA
+      content: "SORA Tokenomics - Sistema Econômico Descentralizado | Rede SORA"
   - - meta
     - property: og:description
       content: "Aprenda sobre a tokenomics SORA (XOR) – um sistema econômico descentralizado construído na rede SORA. Explore a distribuição, utilidade e incentivos de tokens XOR."

@@ -24,7 +24,7 @@ head:
       content: "site"
   - - meta
     - property: og:site_name
-      content: "Rede SORA
+      content: "Rede SORA"
   - - meta
     - property: og:locale
       content: "pt_BR"

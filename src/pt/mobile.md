@@ -3,10 +3,10 @@ title: Aplicativos móveis SORA | Documentação SORA
 head:
   - - meta
     - name: description
-      content: Explore os aplicativos móveis SORA para dispositivos iOS e Android. Descubra os recursos e funcionalidades do aplicativo móvel SORA, incluindo gerenciamento de carteira, rastreamento de ativos, histórico de transações e muito mais. Baixe o aplicativo móvel SORA e acesse o ecossistema SORA em qualquer lugar, permitindo gerenciar seus ativos digitais a qualquer hora e em qualquer lugar.
+      content: "Explore os aplicativos móveis SORA para dispositivos iOS e Android. Descubra os recursos e funcionalidades do aplicativo móvel SORA, incluindo gerenciamento de carteira, rastreamento de ativos, histórico de transações e muito mais. Baixe o aplicativo móvel SORA e acesse o ecossistema SORA em qualquer lugar, permitindo gerenciar seus ativos digitais a qualquer hora e em qualquer lugar."
   - - meta
     - name: keywords
-      content: Aplicativos móveis SORA, aplicativo móvel SORA, aplicativo iOS, aplicativo Android, gerenciamento de carteira, rastreamento de ativos, histórico de transações, ativos digitais
+      content: "Aplicativos móveis SORA, aplicativo móvel SORA, aplicativo iOS, aplicativo Android, gerenciamento de carteira, rastreamento de ativos, histórico de transações, ativos digitais"
 ---
 
 # Aplicativo móvel SORA

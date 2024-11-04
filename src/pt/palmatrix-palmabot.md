@@ -3,7 +3,7 @@ title: Palmatrix PalmaBot | Documentos SORA
 head:
   - - meta
     - name: description
-      content: Explore o PalmaBot do Palmatrix para conectar o Polkaswap a exchanges centralizadas, aprimorando a eficiência do comércio descentralizado.
+      content: "Explore o PalmaBot do Palmatrix para conectar o Polkaswap a exchanges centralizadas, aprimorando a eficiência do comércio descentralizado."
   - - meta
     - name: keywords
       content: Construtores SORA, SORA, exchange centralizada, Polkaswap

@@ -3,7 +3,7 @@ title: "Adicionar Tokens à Lista de Permissão no Polkaswap | Documentação SO
 head:
   - - meta
     - name: description
-      content: "Aprenda a adicionar tokens ao Polkaswap na rede SORA. Descubra o processo passo a passo para listar novos tokens no Polkaswap, incluindo os requisitos, procedimentos e considerações para adicionar tokens.
+      content: "Aprenda a adicionar tokens ao Polkaswap na rede SORA. Descubra o processo passo a passo para listar novos tokens no Polkaswap, incluindo os requisitos, procedimentos e considerações para adicionar tokens."
   - - meta
     - name: keywords
       content: "adição de tokens, Polkaswap, rede SORA, listagem de tokens, requisitos, procedimentos, ponte de ativos, interoperabilidade, redes blockchain, lista de permissões"

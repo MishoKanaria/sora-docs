@@ -3,7 +3,7 @@ title: Votar na governança da SORA | Documentação da SORA
 head:
   - - meta
     - name: description
-      content: Explore a governança da SORA e aprenda a navegar na tomada de decisões descentralizada para melhorar o ecossistema da SORA. Ideal para todos os níveis de habilidade.
+      content: "Explore a governança da SORA e aprenda a navegar na tomada de decisões descentralizada para melhorar o ecossistema da SORA. Ideal para todos os níveis de habilidade."
   - - meta
     - name: keywords
       content: Governança da SORA, Tomada de decisões descentralizada, Ecossistema da SORA, Governança de blockchain, Participação na SORA, Guia de governança descentralizada
